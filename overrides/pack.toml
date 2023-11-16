@@ -1,0 +1,13 @@
+name = "Create Arcane Engineering"
+author = "FortnitePro420Xx"
+version = "Dev"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b85369bebccbe321d1f6afc2cc0e5f15ebcf4ad7787ea8ae9b69910a127dfaa7"
+
+[versions]
+forge = "40.2.9"
+minecraft = "1.18.2"
