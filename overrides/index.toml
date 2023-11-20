@@ -4882,6 +4882,11 @@ hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "9d4e075259bb040795c2e83d0db124f6924e7831e9e344dc738fdd32e5111ee8"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "3882c802ffa760a9c7581bb04bde212173edb903d54a931c5cbdf83eff6053b9"
 metafile = true
@@ -4957,6 +4962,11 @@ hash = "456395f71f5ee84e6b48fd4d5e83d11dc8b8761555c15065cfc29455469715d8"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "12ca499aff1c91c2e2ec3d094d4b9d6799bc2d2c8445827ed2ca07419f323605"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "e4155e11b80301e0dbc76f64deea0f7b73c2e8086782ce8a7cdc5b72b2218172"
 metafile = true
@@ -4974,6 +4984,11 @@ metafile = true
 [[files]]
 file = "mods/create-arcane-engineering-core.pw.toml"
 hash = "c44a6c6b7336ecf9a4fa5d2a1e8cda739b6e284cda5a74eb1651964f03462a60"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "73ec4484ca338711f0b6ca61176c1e3bbeb341d7b6b195ad186e9abda2d6ac9f"
 metafile = true
 
 [[files]]
@@ -5112,6 +5127,11 @@ hash = "b3fc89e39c3a0ec11e7970250ab150edd3921416007d81961a8c814967dcb278"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "c49b1c4c0f98d58414320731ccbdbf21aab3eade5bff8db1d0b30df846dfdc63"
+metafile = true
+
+[[files]]
 file = "mods/effective-forge.pw.toml"
 hash = "be13c6c50adc17948ef1a8689537f09bcd550b7d998901ad6a50870c38d5399c"
 metafile = true
@@ -5169,6 +5189,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "379d6716ffb05e693aac86723e30bd6db53b98fea48d07eddb8238a260ec6d4e"
+metafile = true
+
+[[files]]
+file = "mods/farmers-respite.pw.toml"
+hash = "2e87c0d260e4e99193d9bfa22fe1650d057224c5f329631c745e958dfa885c6b"
 metafile = true
 
 [[files]]
@@ -5339,6 +5364,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "3219dfca4b249e6f4fd34c4699455841feaea6d70f154bdb927fd9be8d9d3631"
+metafile = true
+
+[[files]]
+file = "mods/jakal.pw.toml"
+hash = "d2ea0a59d00e7b58c42f6c057953f1e70d391b654aa51543bfdc4391ea930422"
 metafile = true
 
 [[files]]
@@ -5664,6 +5694,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "2d7fae264a11ebbdc8a3809581aa6d3b58013098a7cf73fc84aec1890ec46116"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "5d17dbf310de8dcfc32d23e4af75f23f065d8102be58070a6b01f587f2bf1907"
 metafile = true
 
 [[files]]
