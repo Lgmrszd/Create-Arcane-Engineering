@@ -1,0 +1,13 @@
+name = "Bundled Delight"
+filename = "bundledelight-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8109fbf18f67d6b59bb3881dea7f87151fff62d0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4612378
+project-id = 836984

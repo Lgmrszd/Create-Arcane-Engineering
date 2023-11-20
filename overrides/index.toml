@@ -4877,6 +4877,16 @@ hash = "1d7f95592de63e85db46a17cb90c0386b9810954ae55dea2da7ba6291db0cb4d"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
+metafile = true
+
+[[files]]
+file = "mods/bundled-delight.pw.toml"
+hash = "615e212078f2808eea79f8a094ab6dffa154ac29f085a2e7bc675d91736c83c1"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "75e650b0bd889e5f748fe4f637109201282c0a836dc182e82a18f88bb3d2e863"
 metafile = true
@@ -5099,6 +5109,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "f94614d62ebbd0887721d59e3d9cbec48bf824320725d35509e04a8c4571b098"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+hash = "975f05a4d8575780f5f8f970ac42e31a7a061c269965af50b05535be5f362e8c"
 metafile = true
 
 [[files]]
@@ -5492,6 +5507,11 @@ hash = "485e1aefa205baa57b29c54af2987257e06ef09516a32fb70759bbc700f2a337"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight-plus.pw.toml"
+hash = "7a0028a42ea9f364e1023295560619180a9857d3098d26ff593a1e1caaab3973"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "68445f97383faa897458fb05bfc138beda594d531eb90fa60d4534e5099b1270"
 metafile = true
@@ -5514,6 +5534,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
