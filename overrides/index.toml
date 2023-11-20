@@ -4838,7 +4838,7 @@ metafile = true
 
 [[files]]
 file = "mods/audio-extension-for-fancymenu-forge.pw.toml"
-hash = "175feff13ab11089dd8de0393e3efc7d29f2a072402cf30e07a2c83244c95fb9"
+hash = "ea7339a3a6d0832a9f12fec8029a4bcd067565cb053f40846c69502681b74a1f"
 metafile = true
 
 [[files]]
@@ -4848,7 +4848,7 @@ metafile = true
 
 [[files]]
 file = "mods/auudio-forge.pw.toml"
-hash = "908b881dc7d5c6372e5afc39594cda0331e6819f3760baa3c0459e5a020ae2bf"
+hash = "f703ea60d5f00a774fc200c3a81fd90e32217d8300b135ef922522365fb76b62"
 metafile = true
 
 [[files]]
@@ -5118,7 +5118,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "48b2b63982ac6146e96a91c3830461d90ccda9bfe8e3769346de2fbdc747fc7c"
+hash = "99bd2760570eb706e667723c0c0b4007ec48caf5aabcc55783affbf0274f8b37"
 metafile = true
 
 [[files]]
@@ -5128,7 +5128,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "4f8e17c5e7c446fb66822f7cc7726dde97fdbeb5fdf97c3871b501e23c432b95"
+hash = "0256dd5ca22f7d7c8e9a90cdc42c85b958d28e64a72c4a88c3e1fd46573f0d5a"
 metafile = true
 
 [[files]]
@@ -5148,7 +5148,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective-forge.pw.toml"
-hash = "be13c6c50adc17948ef1a8689537f09bcd550b7d998901ad6a50870c38d5399c"
+hash = "017ec9662484e78e73bff2f7958aa8e02ba0afb4f751f7f361836f02aabff8cb"
 metafile = true
 
 [[files]]
@@ -5188,17 +5188,17 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "36b91702724cbe50f4fdcb0f278af876b67a0aeceeb557d3ae0e3a0b63499d6f"
+hash = "4e1097c11d01e2c6dac426fa511c80857fc04942933adf9d47fa8a1469dff3c5"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "e290aa74080c94bb3f0359b2d09dad0df94ac1bd0251c29dfead6e108984bac9"
+hash = "f3879c7f8e075e1474c6a0da9b5c13696ba8aeb28e555eea6d3ceb3108c5cd85"
 metafile = true
 
 [[files]]
 file = "mods/fancyvideo-api.pw.toml"
-hash = "e690fefb078ee182b73a7c070c41c1831db57ca44264d8b448312ce7ed1e2f86"
+hash = "c0c633fd4e9af4661ddd481bc953d0a5362d8291f3abe30bb4538469a8073b13"
 metafile = true
 
 [[files]]
@@ -5258,7 +5258,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
 metafile = true
 
 [[files]]
@@ -5363,7 +5363,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "7fd6bc3e0bc4c45ca6ba8beef3c66393f9d3643d51e0dfc3c302703e2b221f46"
+hash = "a748377defc6b6837575eb5994445d8ab6f1b7ea5ec3bd789384354d859e33ed"
 metafile = true
 
 [[files]]
@@ -5458,7 +5458,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
-hash = "2eb08ed9ad96652c2da67e9faf59fc7332436e14587417d3de1ad0fb8376db37"
+hash = "4bd9e409af22a8c79c767378e69e614f81d9267045cd80964660f06bd402c13d"
 metafile = true
 
 [[files]]
@@ -5498,7 +5498,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "fe906b3f4de4fe6c7313609f5c7cc44e733cd0e82cf74b6dbce52440bc7beccc"
+hash = "2c622839003e9008c0d3f891c6b376ec59ccb56289320c96d72093323bd0205a"
 metafile = true
 
 [[files]]
@@ -5523,7 +5523,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "93091b397f6ac25759b98be7034767689407bb344c464a9359642122a8b683db"
+hash = "286d62b4f15a54acaedfd98c90293d8db5e0ae28c95f78726274c85386f2b7c1"
 metafile = true
 
 [[files]]
@@ -5543,7 +5543,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
 metafile = true
 
 [[files]]
@@ -5628,7 +5628,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "07820f2e9cf69d227919b049139bb03f83332d3ca2af5b4253c6e88893c47680"
+hash = "677339e3009ce3baf939f026be93885fe243369537dd55f3816a25c91940af17"
 metafile = true
 
 [[files]]
@@ -5643,7 +5643,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "518c725fcd11c1450d13b9768b9944012295b8e245677b525c6702cc51c3e0f7"
+hash = "d37def1e9fcb6069f74c8e85bda40961bbe0e3d76c58cd583c67936df640da44"
 metafile = true
 
 [[files]]
@@ -5793,7 +5793,7 @@ metafile = true
 
 [[files]]
 file = "mods/video-extension-for-fancymenu-forge.pw.toml"
-hash = "fb063a732c460a1b7b9c41b4aa4e78f3a309000a3fc03b4e6ecbad1f6c0f31db"
+hash = "f9dc0a79ae94141e106f87c608a19a1f19db02b1065d1202c657d4f9cde2bfd1"
 metafile = true
 
 [[files]]
