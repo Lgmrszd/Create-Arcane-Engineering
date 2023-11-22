@@ -5383,7 +5383,7 @@ metafile = true
 
 [[files]]
 file = "mods/jakal.pw.toml"
-hash = "6e1c00e2d28d25bd4253de39c4c799b5b2d62142e5b391cacd3b2f60503a1e11"
+hash = "170d9dede0ef1c4c9788e97bc3002c9130ce814230285ca3270f99cf49a92692"
 metafile = true
 
 [[files]]

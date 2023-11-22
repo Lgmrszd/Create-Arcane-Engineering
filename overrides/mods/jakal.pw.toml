@@ -1,13 +1,13 @@
 name = "JAKAL"
-filename = "JAKAL-2.4.2-FORGE-1.18.2.jar"
+filename = "JAKAL-2.4.3-FORGE-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1f4d08ca8389d966b71729ed0d96e77857907272"
+hash = "c92e737410463194d2d511a98e890b68460445dc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4885245
+file-id = 4888290
 project-id = 934971
