@@ -1069,6 +1069,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "c04e7240254b95a053ee846c7e199af0126ff81166385470d8d8b3f2c992d222"
 
 [[files]]
+file = "config/delightful-common.toml"
+hash = "afedca8cc6e50480e2ec74e7f4246ca05706121fbbd0e1b5659b0097797a20b3"
+
+[[files]]
 file = "config/do_a_barrel_roll-client-1.toml.bak"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
