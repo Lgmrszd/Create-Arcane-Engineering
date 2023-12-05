@@ -5021,6 +5021,11 @@ hash = "a870f4e08855ee1eb1845baa93c0f941f8b39842e20f6d43e78fa8b212508a87"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "4ebe6aa94e94bc360e7297033e220cc410d78c13c444f16c05e5ab4f1153bbda"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "f6ab95ce40c5241c5db3e34f30ad517f33600c54443cb4dc17cc35b91c719a56"
 metafile = true
@@ -5231,6 +5236,11 @@ hash = "18e115dc1bca2f3f14d65f26e03a9f6d396d03b2b24a7bbd9bb0fc7dd7b7560f"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "a6944c6e912ec3c1293b84cbed86ea1a0dbd8f1827435cb1bf2849d37b42a0dc"
 metafile = true
@@ -5341,6 +5351,11 @@ hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "701c5388f582e7472e796265fb430c36d751313be7468fb67e4abb86d0875846"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "05bd7c842709260cc5e96e3d931ba774a5f7b45f7d3f0e43a234ed4e4727bc1b"
 metafile = true
@@ -5353,6 +5368,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-nbt.pw.toml"
 hash = "dd158294b74b2e6f14c264e6ec17a4f38b5f78ab193936ffeb3f0633f6e402f3"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+hash = "749abf1ab6ed91e72815d15fa4ff09eff1b8f55a27dba3b00a8c616ed045d4fb"
 metafile = true
 
 [[files]]
@@ -5688,11 +5708,6 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
-metafile = true
-
-[[files]]
-file = "mods/structure-expansion.pw.toml"
-hash = "20be2f904bb331d9adcc85f971008f8230204ea17b5e69adcc5973464f7cbbfc"
 metafile = true
 
 [[files]]
